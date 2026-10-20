@@ -37,3 +37,26 @@ Contains advertising. Selected documents are sent to the printer you choose. Che
 Package: `com.sinatools.chapyar` · Android 7.0+ · Version 1.0.3 (4)
 
 [Privacy / حریم خصوصی](PRIVACY.md)
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-settings-light.png" width="240" alt="ChapYar en 01-settings-light" />
+<img src="screenshots/en/02-settings-dark.png" width="240" alt="ChapYar en 02-settings-dark" />
+<img src="screenshots/en/03-printers.png" width="240" alt="ChapYar en 03-printers" />
+<img src="screenshots/en/04-add-network-printer.png" width="240" alt="ChapYar en 04-add-network-printer" />
+<img src="screenshots/en/05-home.png" width="240" alt="ChapYar en 05-home" />
+
+### فارسی
+
+<img src="screenshots/fa/01-settings-light.png" width="240" alt="ChapYar fa 01-settings-light" />
+<img src="screenshots/fa/02-settings-dark.png" width="240" alt="ChapYar fa 02-settings-dark" />
+<img src="screenshots/fa/03-printers.png" width="240" alt="ChapYar fa 03-printers" />
+<img src="screenshots/fa/04-add-network-printer.png" width="240" alt="ChapYar fa 04-add-network-printer" />
+<img src="screenshots/fa/05-home.png" width="240" alt="ChapYar fa 05-home" />
+
