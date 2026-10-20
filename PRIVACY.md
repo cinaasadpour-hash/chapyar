@@ -1,11 +1,11 @@
-# حریم خصوصی | Privacy
+حریم خصوصی — چاپیار
 
-این نسخه دارای تبلیغات تپسل است. درخواست و نمایش تبلیغ به اینترنت و سرویس شخص ثالث نیاز دارد و SDK می‌تواند اطلاعات فنی دستگاه و تعامل با تبلیغ را طبق سیاست خود پردازش کند. نبود تبلیغ کار اصلی برنامه را متوقف نمی‌کند. این سند به معنی نبود جمع‌آوری اطلاعات توسط SDK نیست.
+فایل انتخابی برای پیش‌نمایش و چاپ پردازش می‌شود و برای اجرای درخواست چاپ به چاپگر انتخابی USB یا شبکه ارسال می‌شود. تنظیمات، چاپگرهای ذخیره‌شده و تاریخچه چاپ ممکن است روی گوشی نگهداری شوند. تشخیص چاپگر شبکه از شبکه محلی استفاده می‌کند. گزارش عیب‌یابی ممکن است مشخصات اتصال و چاپگر را در بر داشته باشد؛ اشتراک‌گذاری آن به انتخاب شماست.
 
-This release contains Tapsell advertising. Ad requests and rendering require internet and a third-party service. The SDK may process device, technical and ad-interaction data under its own policy. Missing inventory does not block core app functionality. This document does not claim that the SDK collects no data.
+برنامه دارای تبلیغات تپسل است. SDK تبلیغاتی ممکن است اطلاعات فنی دستگاه، شبکه و تعامل با تبلیغ را برای ارائه و اندازه‌گیری تبلیغات پردازش کند. کد برنامه محتوای اسناد، تصاویر دوربین یا فایل‌های شخصی را به عنوان ورودی تبلیغات به SDK ارسال نمی‌کند. حذف برنامه تنظیمات خصوصی آن را پاک می‌کند؛ فایل‌هایی که در حافظه مشترک ذخیره شده‌اند ممکن است باقی بمانند.
 
-Only grant permissions needed for the feature you use. Avoid clearing app data if you want to retain local settings and records.
+Privacy — ChapYar
 
-فقط مجوزهای لازم برای قابلیت مورد استفاده را بدهید. برای نگهداری تنظیمات و اطلاعات محلی، داده برنامه را پاک نکنید.
+Selected files are processed for preview and printing and sent to the chosen USB or network printer to fulfill your request. Preferences, saved printers and print history may be stored on your device. Network discovery uses your local network. Diagnostic reports may contain connection and printer information; sharing them is your choice.
 
-[Tapsell](https://tapsell.ir/) · [SDK documentation](https://developer.tapsell.ir/fa/docs/sdk-legacy-tapsell-plus/)
+This app includes Tapsell advertising. The advertising SDK may process device, network and ad-interaction information to deliver and measure ads. App code does not pass document contents, camera frames or personal files to the SDK as advertising inputs. Uninstalling removes private app settings; files in shared storage may remain.
