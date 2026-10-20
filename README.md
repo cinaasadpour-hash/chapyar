@@ -1,52 +1,39 @@
-# ChapYar | چاپیار
+# ChapYar — چاپیار
 
 ![Icon](icon.png)
 
-[دریافت آخرین نسخه / Download latest](https://github.com/cinaasadpour-hash/chapyar/releases/latest)
+[Download / دریافت نسخه 1.0.3](https://github.com/cinaasadpour-hash/chapyar/releases/tag/v1.0.3)
 
-## فارسی
+چاپیار برای چاپ مستقیم اسناد و عکس‌ها با چاپگرهای سازگار USB OTG و شبکه طراحی شده است.
 
-چاپیار به شما کمک می‌کند از گوشی اندرویدی خود به چاپگرهای سازگار متصل شوید و کارهای چاپ را مدیریت کنید. چاپگر را شناسایی کنید، محتوای مورد پشتیبانی را برای چاپ آماده کنید و تنظیمات خروجی را متناسب با نیاز خود انتخاب کنید.
+امکانات:
+• انتخاب فایل PDF، متن و تصویر و بررسی پیش‌نمایش پیش از چاپ
+• جستجوی چاپگرهای USB و شبکه و افزودن دستی چاپگر با نشانی شبکه
+• تنظیم اندازه کاغذ، جهت صفحه، تعداد نسخه، کیفیت و محدوده صفحات
+• مشاهده وضعیت کارهای چاپ و تاریخچه
+• ابزارهای عیب‌یابی اتصال و چاپ صفحه آزمایشی
+• زبان فارسی و انگلیسی و پوسته روشن، تیره یا مطابق گوشی
 
-گزینه‌های کاغذ، کیفیت، رنگ و مقیاس در مسیرهای پشتیبانی‌شده در دسترس‌اند. جزئیات چاپگر، تاریخچهٔ کارها و ابزارهای عیب‌یابی، پیگیری وضعیت چاپ را آسان‌تر می‌کنند. رابط فارسی و انگلیسی نیز ارائه شده است.
+برای چاپ USB به گوشی دارای USB Host/OTG، کابل مناسب و چاپگر سازگار نیاز دارید. برای چاپ شبکه، گوشی و چاپگر باید به شبکه مناسب دسترسی داشته باشند. پشتیبانی به مدل و زبان چاپگر بستگی دارد؛ سازگاری با تمام چاپگرها تضمین نمی‌شود. برای اسناد Office ابتدا خروجی PDF تهیه کنید.
 
-چاپ از طریق USB یا شبکه به مدل چاپگر، پروتکل و درایور پشتیبانی‌شده وابسته است. اتصال USB به گوشی و کابل یا مبدل OTG سازگار نیاز دارد؛ سازگاری با همهٔ چاپگرها تضمین نمی‌شود.
+برنامه دارای تبلیغات است. اسناد برای چاپ به چاپگر انتخابی ارسال می‌شوند. پیش از چاپ، چاپگر مقصد و تنظیمات را بررسی کنید.
 
-این برنامه دارای تبلیغات است.
 
-### شروع کار
+ChapYar helps you print documents and photos directly with compatible USB OTG and network printers.
 
-پرینتر سازگار را با کابل USB و مبدل OTG وصل کنید و اجازه اتصال بدهید. فایل را انتخاب و پیش‌نمایش چاپ را بررسی کنید؛ ابتدا یک چاپ آزمایشی بگیرید. پشتیبانی همه مدل‌ها تضمین نمی‌شود.
+Features:
+• Select PDF, text and image files and review a preview before printing
+• Discover USB and network printers, or add a printer by its network address
+• Adjust paper size, orientation, copies, quality and page ranges
+• View print-job status and history
+• Connection diagnostics and a test-page option
+• Persian and English, with light, dark and system themes
 
-### تبلیغات
+USB printing requires a USB Host/OTG-capable phone, a suitable cable and a compatible printer. Network printing requires access to the appropriate printer network. Support depends on printer model and printer language; not every printer is supported. Export Office documents to PDF first.
 
-بنر همسان در تاریخچه و تنظیمات، خارج از چاپ. نبود تبلیغ مانع استفاده از برنامه نمی‌شود.
+Contains advertising. Selected documents are sent to the printer you choose. Check the destination and settings before printing.
 
-## English
 
-ChapYar helps you connect an Android phone to compatible printers and manage print jobs. Discover a printer, prepare supported content and choose output settings for your task.
-
-Paper, quality, color and scaling options are available through supported printing paths. Printer details, job history and diagnostic tools make it easier to follow printing activity. Persian and English interfaces are included.
-
-USB and network printing depend on the printer model, protocol and supported driver. USB connections require a compatible phone and cable or OTG adapter. Compatibility with every printer is not guaranteed.
-
-This app contains advertising.
-
-### Getting started
-
-Connect a compatible printer using USB and an OTG adapter, then grant access. Select a file, review the print preview and try one test print first. Not every printer model is supported.
-
-### Advertising
-
-Native banner in History and Settings, outside printing. An unavailable ad does not block ordinary use.
-
-## Download and updates | دریافت و به‌روزرسانی
-
-Android APK, version **1.0.2**. Package: `com.sinatools.chapyar`.
-For updates, install over the existing app to preserve its local data. Do not uninstall first.
-
-برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
+Package: `com.sinatools.chapyar` · Android 7.0+ · Version 1.0.3 (4)
 
 [Privacy / حریم خصوصی](PRIVACY.md)
-
-This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
